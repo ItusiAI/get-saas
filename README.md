@@ -6,7 +6,7 @@
 
 🚀 **专为出海设计的现代化SaaS模版** | **Modern SaaS Template Designed for Global Products**
 
-[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
@@ -134,7 +134,7 @@ Get SaaS 是一个功能完整的 SaaS 模版，集成了用户认证、支付�
 
 ### 1. 克隆项目
 ```bash
-git clone <repository-url>
+git clone <https://github.com/ItusiAI/get-saas>
 cd get-saas-pro
 ```
 
@@ -416,11 +416,11 @@ npm run db:studio       # 打开数据库管理界面
 
 ### 🆘 获取帮助
 - 📖 [查看文档](https://getmoney.wang/zh/article/get-saas-pro) - 完整的配置和使用指南
-- 🐛 [提交 Issue](https://github.com/your-repo/issues) - 报告问题或请求功能
+- 🐛 [提交 Issue](https://github.com/ItusiAI/get-saas/issues) - 报告问题或请求功能
 
 ### 📧 联系方式
 - 邮箱: app@itusi.cn
-- 官网: [https://getsaaspro.co](https://getsaaspro.co)
+- 官网: [https://getsaas.co](https://getsaas.co)
 - 文档: [配置文档](https://getmoney.wang/zh/article/get-saas-pro)
 
 ### 🌟 社区
