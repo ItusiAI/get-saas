@@ -2002,7 +2002,22 @@
     "failed_to_get_referral_stats": "取得推薦統計失敗",
     "affiliate_profile_not_found": "推廣資料不存在",
     "affiliate_stats_not_found": "推廣統計不存在",
-    "missing_required_fields": "缺少必填欄位"
+    "missing_required_fields": "缺少必填欄位",
+    "signup_success_check_email": "註冊成功！請檢查郵箱並點擊驗證鏈接完成激活",
+    "signup_missing_fields": "請填寫所有必填欄位",
+    "signup_password_too_short": "密碼至少需要6個字符",
+    "signup_email_exists": "該郵箱已被註冊",
+    "signup_invalid_referral_code": "無效的推薦碼",
+    "signup_verification_email_failed": "註冊成功，但發送驗證郵件失敗，請稍後重試",
+    "signup_rate_limit": "請求過於頻繁，請稍後再試",
+    "signup_retry": "註冊失敗，請稍後重試",
+    "forgot_password_success_message": "重置密碼鏈接已發送到您的郵箱",
+    "forgot_password_email_required": "請輸入郵箱地址",
+    "forgot_password_send_failed": "發送失敗，請稍後重試",
+    "reset_password_success_message": "密碼重置成功！",
+    "reset_password_password_min_length": "密碼至少需要6個字符",
+    "reset_password_token_invalid": "重置鏈接無效或已過期",
+    "reset_password_reset_failed": "重置失敗，請稍後重試"
   },
   "newsletter": {
     "invalid_email": "請輸入有效的郵箱地址",

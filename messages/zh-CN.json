@@ -2002,7 +2002,22 @@
     "failed_to_get_referral_stats": "获取推荐统计失败",
     "affiliate_profile_not_found": "推广资料不存在",
     "affiliate_stats_not_found": "推广统计不存在",
-    "missing_required_fields": "缺少必填字段"
+    "missing_required_fields": "缺少必填字段",
+    "signup_success_check_email": "注册成功！请检查邮箱并点击验证链接完成激活",
+    "signup_missing_fields": "请填写所有必填字段",
+    "signup_password_too_short": "密码至少需要6个字符",
+    "signup_email_exists": "该邮箱已被注册",
+    "signup_invalid_referral_code": "无效的推荐码",
+    "signup_verification_email_failed": "注册成功，但发送验证邮件失败，请稍后重试",
+    "signup_rate_limit": "请求过于频繁，请稍后再试",
+    "signup_retry": "注册失败，请稍后重试",
+    "forgot_password_success_message": "重置密码链接已发送到您的邮箱",
+    "forgot_password_email_required": "请输入邮箱地址",
+    "forgot_password_send_failed": "发送失败，请稍后重试",
+    "reset_password_success_message": "密码重置成功！",
+    "reset_password_password_min_length": "密码至少需要6个字符",
+    "reset_password_token_invalid": "重置链接无效或已过期",
+    "reset_password_reset_failed": "重置失败，请稍后重试"
   },
   "newsletter": {
     "invalid_email": "请输入有效的邮箱地址",

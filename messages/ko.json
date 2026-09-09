@@ -2002,7 +2002,22 @@
     "failed_to_get_referral_stats": "추천 통계 조회 실패",
     "affiliate_profile_not_found": "제휴 프로필을 찾을 수 없습니다",
     "affiliate_stats_not_found": "제휴 통계를 찾을 수 없습니다",
-    "missing_required_fields": "필수 항목이 누락되었습니다"
+    "missing_required_fields": "필수 항목이 누락되었습니다",
+    "signup_success_check_email": "회원가입 성공! 이메일을 확인하고 인증 링크를 클릭하여 계정을 활성화해 주세요",
+    "signup_missing_fields": "모든 필수 항목을 입력해 주세요",
+    "signup_password_too_short": "비밀번호는 최소 6자 이상이어야 합니다",
+    "signup_email_exists": "이미 등록된 이메일입니다",
+    "signup_invalid_referral_code": "유효하지 않은 추천 코드입니다",
+    "signup_verification_email_failed": "회원가입은 성공했지만 인증 이메일 발송에 실패했습니다. 잠시 후 다시 시도해 주세요",
+    "signup_rate_limit": "요청이 너무 많습니다. 잠시 후 다시 시도해 주세요",
+    "signup_retry": "회원가입에 실패했습니다. 잠시 후 다시 시도해 주세요",
+    "forgot_password_success_message": "비밀번호 재설정 링크가 이메일로 전송되었습니다",
+    "forgot_password_email_required": "이메일 주소를 입력해 주세요",
+    "forgot_password_send_failed": "전송에 실패했습니다. 잠시 후 다시 시도해 주세요",
+    "reset_password_success_message": "비밀번호가 성공적으로 재설정되었습니다!",
+    "reset_password_password_min_length": "비밀번호는 최소 6자 이상이어야 합니다",
+    "reset_password_token_invalid": "재설정 링크가 유효하지 않거나 만료되었습니다",
+    "reset_password_reset_failed": "재설정에 실패했습니다. 잠시 후 다시 시도해 주세요"
   },
   "newsletter": {
     "invalid_email": "유효한 이메일 주소를 입력해 주세요",

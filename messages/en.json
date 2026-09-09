@@ -2002,7 +2002,22 @@
     "failed_to_get_referral_stats": "Failed to get referral stats",
     "affiliate_profile_not_found": "Profile not found",
     "affiliate_stats_not_found": "Stats not found",
-    "missing_required_fields": "Missing required fields"
+    "missing_required_fields": "Missing required fields",
+    "signup_success_check_email": "Signup successful! Please check your email and click the verification link to activate your account",
+    "signup_missing_fields": "Please fill in all required fields",
+    "signup_password_too_short": "Password must be at least 6 characters",
+    "signup_email_exists": "This email is already registered",
+    "signup_invalid_referral_code": "Invalid referral code",
+    "signup_verification_email_failed": "Signup successful, but failed to send verification email. Please try again later",
+    "signup_rate_limit": "Too many requests. Please try again later",
+    "signup_retry": "Signup failed. Please try again later",
+    "forgot_password_success_message": "Password reset link has been sent to your email",
+    "forgot_password_email_required": "Please enter your email address",
+    "forgot_password_send_failed": "Failed to send. Please try again later",
+    "reset_password_success_message": "Password reset successful!",
+    "reset_password_password_min_length": "Password must be at least 6 characters",
+    "reset_password_token_invalid": "Reset link is invalid or expired",
+    "reset_password_reset_failed": "Reset failed. Please try again later"
   },
   "newsletter": {
     "invalid_email": "Please enter a valid email address",

@@ -2002,7 +2002,22 @@
     "failed_to_get_referral_stats": "紹介統計の取得に失敗しました",
     "affiliate_profile_not_found": "アフィリエイ トプロフィールが見つかりません",
     "affiliate_stats_not_found": "アフィリエイ ト統計が見つかりません",
-    "missing_required_fields": "必須項目が入力されていません"
+    "missing_required_fields": "必須項目が入力されていません",
+    "signup_success_check_email": "登録が完了しました！メールをご確認のうえ、認証リンクをクリックしてアカウントを有効化してください",
+    "signup_missing_fields": "すべての必須項目を入力してください",
+    "signup_password_too_short": "パスワードは6文字以上で入力してください",
+    "signup_email_exists": "このメールアドレスは既に登録されています",
+    "signup_invalid_referral_code": "無効な紹介コードです",
+    "signup_verification_email_failed": "登録は完了しましたが、確認メールの送信に失敗しました。しばらくしてから再度お試しください",
+    "signup_rate_limit": "リクエストが多すぎます。しばらくしてから再度お試しください",
+    "signup_retry": "登録に失敗しました。しばらくしてから再度お試しください",
+    "forgot_password_success_message": "パスワードリセットリンクをメールに送信しました",
+    "forgot_password_email_required": "メールアドレスを入力してください",
+    "forgot_password_send_failed": "送信に失敗しました。しばらくしてから再度お試しください",
+    "reset_password_success_message": "パスワードのリセットが完了しました！",
+    "reset_password_password_min_length": "パスワードは6文字以上で入力してください",
+    "reset_password_token_invalid": "リセットリンクが無効または期限切れです",
+    "reset_password_reset_failed": "リセットに失敗しました。しばらくしてから再度お試しください"
   },
   "newsletter": {
     "invalid_email": "有効なメールアドレスを入力してください",
